@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urunler>
+  <urun id="0">
+    <urunadi>Cafe Latte</urunadi>
+    <fiyati>100</fiyati>
+  </urun>
+  <urun id="1">
+    <urunadi>Türk Kahvesi</urunadi>
+    <fiyati>50</fiyati>
+  </urun>
+  <urun id="2">
+    <urunadi>Espresso</urunadi>
+    <fiyati>75</fiyati>
+  </urun>
+  <urun id="3">
+    <urunadi>Latte</urunadi>
+    <fiyati>30</fiyati>
+  </urun>
+</urunler>

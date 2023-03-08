@@ -1,0 +1,28 @@
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\bin\Debug\KahveSatis.exe.config
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\bin\Debug\KahveSatis.exe
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\bin\Debug\KahveSatis.pdb
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\obj\Debug\KahveSatis.csprojResolveAssemblyReference.cache
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\obj\Debug\KahveSatis.FrmKahve.resources
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\obj\Debug\KahveSatis.FrmLogin.resources
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\obj\Debug\KahveSatis.Properties.Resources.resources
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\obj\Debug\KahveSatis.csproj.GenerateResource.Cache
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\obj\Debug\KahveSatis.exe
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\obj\Debug\KahveSatis.pdb
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\obj\Debug\KahveSatis.FrmKullanicilar.resources
+c:\users\ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\obj\Debug\KahveSatis.FrmUrunler.resources
+C:\Users\Ram\documents\visual studio 2017\Projects\KahveSatis\KahveSatis\obj\Debug\KahveSatis.FrmSatis.resources
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.csproj.AssemblyReference.cache
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.csproj.SuggestedBindingRedirects.cache
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.FrmKahve.resources
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.FrmKullanicilar.resources
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.FrmSatis.resources
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.FrmUrunler.resources
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.Properties.Resources.resources
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.csproj.GenerateResource.cache
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.csproj.CoreCompileInputs.cache
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.exe
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.pdb
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\bin\Debug\KahveSatis.exe.config
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\bin\Debug\KahveSatis.exe
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\bin\Debug\KahveSatis.pdb
+C:\Users\safak\Desktop\KahveSatis\KahveSatis\obj\Debug\KahveSatis.GirişEkranı.resources
